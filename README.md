@@ -9,5 +9,8 @@ Krabička na karty v maximální podobě knihy
 - [x] namodelovat druhý díl který drží karty 
 - [x] namodelovat třetí díl výko 
 - [x] spojit díl 1 a 3 pomocí pohyblivýho spoje 
-- [] vytisknout a zkontrolovat či funguje 
-- [] změnit podle potřeby do budoucna 
+- [ ] vytisknout a zkontrolovat či funguje 
+- [ ] změnit podle potřeby do budoucna
+- [ ] napsat dokumentaci
+- [ ] Dát 3D model na github
+- [ ] Dát dokumentaci na github
