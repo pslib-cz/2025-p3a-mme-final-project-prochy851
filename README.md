@@ -14,3 +14,10 @@ Krabička na karty v maximální podobě knihy
 - [ ] napsat dokumentaci
 - [ ] Dát 3D model na github
 - [ ] Dát dokumentaci na github
+
+
+| Item | množství | Cena |
+| :--- | :---: | ---: |
+| PLA Materiál | 47 g| 24 kč|
+| Petg Materiál| 44 g| 22 kč|
+|Celkový materiál| 91 g| 46 kč|
