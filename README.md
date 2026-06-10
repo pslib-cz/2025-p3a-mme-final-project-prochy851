@@ -22,4 +22,6 @@ Krabička na karty v maximální podobě knihy
 | Petg Materiál| 44 g| 22 kč|
 |Celkový materiál| 91 g| 46 kč|
 |Elektřina| 0,15 až 0,35 kWh| 2 - 4 kč|
+| Otrok | 1 | 0 kč/h |
+|Celková cena | 50 kč|
 | Čas | 3 hodiny| 
