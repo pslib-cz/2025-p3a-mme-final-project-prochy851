@@ -33,4 +33,4 @@ Na tisk je potřeba 3D tiskárna. Na to jsem využil Bambulab A1. Doba tisknu my
 ## Konkrétní soubory na tisk pomocí STEP formátu
 * [Krabička vnitřní díl]([(https://github.com/pslib-cz/2025-p3a-mme-final-project-prochy851/blob/main/Models/Krabi%C4%8Dka%20na%20karty%208%20-%20vnit%C5%99n%C3%AD%20d%C3%ADl%201.step)])
 * [Krabička vnější díl horní]([https://odkaz-na-stranku.com](https://github.com/pslib-cz/2025-p3a-mme-final-project-prochy851/blob/main/Models/Krabi%C4%8Dka%20na%20karty%208%20-%20vnej%C5%A1%C3%AD%20horn%C3%AD%20d%C3%ADl%201.step))
-* [Krabička vnější díl dolní]([Models/Krabička na karty 8 - vnější díl dolní 1.step])
+* [Krabička vnější díl dolní]([https://github.com/pslib-cz/2025-p3a-mme-final-project-prochy851/blob/main/Models/Krabi%C4%8Dka%20na%20karty%208%20-%20vn%C4%9Bj%C5%A1%C3%AD%20d%C3%ADl%20doln%C3%AD%201.step])
